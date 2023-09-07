@@ -8,13 +8,13 @@ This project focuses on the segmentation of online clients using various machine
 
 ### Data Exploration
 
-* [Notebook is here](https://github.com/Noxfr69/Energy_Consumption_Prediction/blob/main/data_exploration_P5.ipynb)
+* [Notebook is here](https://github.com/Noxfr69/Olist_Client_Segmentation_Project/blob/main/data_exploration_P5.ipynb)
 In this notebook, we explore the dataset's key characteristics, distributions, and patterns to better understand the client base.
 
 
 ### Clustering Algorithms
 
-* [Notebook is here](https://github.com/Noxfr69/Energy_Consumption_Prediction/blob/main/clustering_notebook_P5.ipynb)
+* [Notebook is here](https://github.com/Noxfr69/Olist_Client_Segmentation_Project/blob/main/clustering_notebook_P5.ipynb)
 Here, we apply unsupervised learning techniques like:
 
 - K-means clustering
@@ -23,7 +23,7 @@ Here, we apply unsupervised learning techniques like:
 
 ### Model Update Frequency
 
-* [Notebook is here](https://github.com/Noxfr69/Energy_Consumption_Prediction/blob/main/rand_index_updating_model_frequency.ipynb)
+* [Notebook is here](https://github.com/Noxfr69/Olist_Client_Segmentation_Project/blob/main/rand_index_updating_model_frequency.ipynb)
 This notebook focuses on evaluating the optimal model update frequency using ARI (Adjusted Rand Index) metrics.
 
 ---
